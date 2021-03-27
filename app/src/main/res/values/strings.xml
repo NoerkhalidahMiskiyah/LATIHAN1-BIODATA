@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Latihan1-Biodata</string>
+    <string name="nama_lengkap_noerkhalidah_miskiyah">Nama Lengkap : Noerkhalidah Miskiyah</string>
+    <string name="nim_10118077">NIM : 10118077</string>
+    <string name="kelas_if_2">Kelas : IF-2</string>
+    <string name="alamat_rumah_jl_cijerah_no.207">Alamat Rumah : Jl.Cijerah No.207</string>
+    <string name="jenis_kelamin_perempuan">Jenis Kelamin : Perempuan</string>
+    <string name="ttl_sukabumi_9_april_2000">TTL : Sukabumi,9 April 2000</string>
+    <string name="goldar_o">Golongan Darah : O</string>
+    <string name="makfav_nasi_goreng">Makanan Favorit : Nasi Goreng</string>
+    <string name="minfav_juice">Minuman Favorit : Juice</string>
+    <string name="hobi_jalan_jalan">Hobi : Jalan-jalan</string>
+    <string name="lagu_favorit_to_the_bone_pamungkas">Lagu Favorit : To The Bone - Pamungkas</string>
+    <string name="film_favorit_drama_korea">Film Favorit : Drama Korea</string>
+    <string name="perkerjaan_yang_diinginkan_setelah_kuliah_guru_atau_dosen">Pekerjaan yang diinginkan setelah kuliah : Guru atau Dosen</string>
+</resources>
